@@ -12,6 +12,10 @@ dependencies:
     sdk: flutter
 
   firebase_core: ^2.10.0
+  firebase_messaging: ^14.1.0
+  firebase_analytics: ^10.1.0
+  firebase_crashlytics: ^3.0.0
+  firebase_in_app_messaging: ^0.7.0
   
   # Cloud Firestore - Firebase Core 3.x-тэй хамт ажиллах хувилбар
   cloud_firestore: ^4.17.5
