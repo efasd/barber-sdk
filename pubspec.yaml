@@ -15,6 +15,7 @@ dependencies:
   
   # Cloud Firestore - Firebase Core 3.x-тэй хамт ажиллах хувилбар
   cloud_firestore: ^4.17.5
+  firebase_remote_config: ^3.0.
   
   # Date Picker Timeline - Энэ хувилбар нь Flutter 3.x дээр зүгээр ажиллана
   date_picker_timeline: ^1.2.6
